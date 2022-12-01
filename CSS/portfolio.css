@@ -79,14 +79,14 @@ section{
 
 .tecnologias{
     margin-top: 10px;
-    height: 200px;
+    height: auto;
     width: auto;
     padding: 3%;
 }
 
 .educação{
     margin-top: 10px;
-    height: 188px;
+    height: auto;
     width: auto;
     padding: 3%;   
 }
@@ -112,12 +112,14 @@ section{
 
 .onix1{
     display: flex;
+    width: 50%;
     flex-direction: column;    
     padding: 3%;
 }
 
 .onix2{
     display: flex;
+    width: 50%;
     flex-direction: column;
     padding: 3%;
 }
@@ -154,7 +156,7 @@ section{
 
 aside{
     display: flex;
-    height: 30%;
+    height: auto;
     width: auto;
     padding: 3%;
     gap: 1rem;
